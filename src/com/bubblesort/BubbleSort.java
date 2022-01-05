@@ -23,7 +23,7 @@ public class BubbleSort {
 		BubbleSort bubbleSort = new BubbleSort();
 
 		Scanner scanner = new Scanner(System.in);
-		System.out.println("Enter the  number of integers to sort: ");
+		System.out.println("Enter the number of integers to sort: ");
 		int count = scanner.nextInt();
 
 		int[] array = new int[count];
